@@ -1,0 +1,22 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "To download website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul26021999/web_scrapping.git"
+  },
+  "author": "RahulGupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul26021999/web_scrapping/issues"
+  },
+  "homepage": "https://github.com/rahul26021999/web_scrapping#readme",
+  "dependencies": {
+    "website-scraper": "^4.2.3"
+  }
+}
